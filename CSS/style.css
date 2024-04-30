@@ -1,0 +1,70 @@
+.max-w-2xl.mx-auto.style_add {
+    max-width: 95%;
+    padding: 14px;
+}
+
+/* section.\31 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+} */
+/* .div_con_name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+} */
+/* .div_main_sub {
+    display: flex;
+    justify-content: flex-start;
+    width: 90%;
+} */
+
+.blog {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100%;
+
+}
+.prod {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100%;
+}
+
+
+section.cont {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section.\31 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    padding: 25px 0px;
+}
+.div_main_sub {
+    display: flex;
+    justify-content: flex-start;
+    width: 27%;
+}
+a.text {
+    font-size: large;
+    font-family: serif;
+}
+.prod1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 24%;
+}
